@@ -15,6 +15,9 @@
     <pattern id="scanlines" width="100" height="4" patternUnits="userSpaceOnUse">
       <line x1="0" y1="0" x2="100" y2="0" stroke="#000" stroke-width="1.5" opacity="0.15" />
     </pattern>
+
+    <!-- Path for circular text (centered at X=840, Y=100, Radius=55) -->
+    <path id="textCircle" d="M 840, 45 a 55,55 0 1,1 -0.1,0 Z" />
   </defs>
 
   <style>
@@ -37,6 +40,30 @@
     .monokai-string { fill: #e6db74; }
     .monokai-type { fill: #66d9ef; italic: true; }
     .monokai-val { fill: #ae81ff; }
+
+    /* Circular HUD Styles */
+    .hud-text {
+      font-family: 'Fira Code', monospace;
+      font-size: 9px;
+      font-weight: 600;
+      fill: #a6e22e;
+      letter-spacing: 2px;
+    }
+
+    .hud-circle {
+      fill: none;
+      stroke: #a6e22e;
+      stroke-width: 1;
+      opacity: 0.4;
+      stroke-dasharray: 4, 4;
+    }
+
+    .hud-center {
+      font-family: 'Fira Code', monospace;
+      font-size: 18px;
+      font-weight: bold;
+      fill: #f92672;
+    }
 
     /* Typing Animations */
     @keyframes fadeIn {
@@ -119,5 +146,25 @@
       <rect class="cursor" x="325" y="195" width="10" height="18" />
       <text x="0" y="210" font-family="'Fira Code', monospace" font-size="15" fill="#a6e22e">$ <tspan fill="#f8f8f2">_</tspan></text>
     </g>
+  </g>
+
+  <!-- Right Side: Rotating Cyber-Badge HUD -->
+  <g filter="url(#greenGlow)">
+    <!-- Rotating Text Path Group -->
+    <g>
+      <text class="hud-text">
+        <textPath href="#textCircle" startOffset="0%">â€¢ HI FOLKS! â€¢ WELCOME TO MY PROFILE â€¢ HAVE A GREAT DAY </textPath>
+      </text>
+      <!-- Infinite Rotation Animation (centered at X=840, Y=100) -->
+      <animateTransform attributeName="transform" type="rotate" from="0 840 100" to="360 840 100" dur="16s" repeatCount="indefinite" />
+    </g>
+
+    <!-- Outer Tech Circles -->
+    <circle cx="840" cy="100" r="62" class="hud-circle" stroke-dasharray="2, 6" />
+    <circle cx="840" cy="100" r="48" class="hud-circle" stroke-width="0.5" />
+    <circle cx="840" cy="100" r="45" class="hud-circle" stroke-dasharray="8, 2" />
+    
+    <!-- Central HUD text / cursor -->
+    <text x="840" y="106" class="hud-center" text-anchor="middle">&gt;_</text>
   </g>
 </svg>
