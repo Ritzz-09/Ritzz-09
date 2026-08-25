@@ -20,13 +20,12 @@
     <path id="textCircle" d="M 840, 45 a 55,55 0 1,1 -0.1,0 Z" />
   </defs>
 
-  <style>
-    /* NOTE: No external url imports inside style tags, as browsers block them in secure image mode */
+    <style>
     .term-text {
       font-family: 'Fira Code', Consolas, Monaco, 'Courier New', Courier, monospace;
       font-size: 14.5px;
       fill: #f8f8f2;
-      opacity: 0;
+      opacity: 0; /* Starts hidden, then types in */
     }
     
     .cursor {
@@ -103,7 +102,6 @@
     
     <!-- Title Text -->
     <text x="230" y="23" font-family="'Fira Code', monospace" font-size="12" fill="#75715e" text-anchor="middle" font-weight="bold">rithish_sp@terminal: ~</text>
-
     <!-- Terminal Content Area -->
     <g transform="translate(25, 45)">
       <!-- Line 1: greet.sh -->
@@ -144,6 +142,7 @@
       <!-- Blinking Command Prompt Cursor -->
       <rect class="cursor" x="325" y="195" width="10" height="18" />
       <text x="0" y="210" font-family="'Fira Code', monospace" font-size="15" fill="#a6e22e">$ <tspan fill="#f8f8f2">_</tspan></text>
+    </g>
     </g>
   </g>
 
