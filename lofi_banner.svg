@@ -1,4 +1,4 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380" width="100%" height="100%">
+﻿<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 380" width="100%" height="100%">
   <defs>
     <!-- Dark glass overlay gradient -->
     <linearGradient id="glassGrad" x1="0" y1="0" x2="1" y2="1">
@@ -27,7 +27,6 @@
       font-family: 'Fira Code', monospace;
       font-size: 15px;
       fill: #f8f8f2;
-      opacity: 0;
     }
     
     .cursor {
@@ -64,23 +63,11 @@
       font-weight: bold;
       fill: #f92672;
     }
-
-    /* Typing Animations */
-    @keyframes fadeIn {
-      to { opacity: 1; }
-    }
     
     @keyframes blink {
       0%, 100% { opacity: 1; }
       50% { opacity: 0; }
     }
-    
-    /* Sequence delays */
-    .line-1 { animation: fadeIn 0.3s steps(1) forwards; animation-delay: 0.5s; }
-    .line-2 { animation: fadeIn 0.3s steps(1) forwards; animation-delay: 1.8s; }
-    .line-3 { animation: fadeIn 0.3s steps(1) forwards; animation-delay: 3.2s; }
-    .line-4 { animation: fadeIn 0.3s steps(1) forwards; animation-delay: 4.5s; }
-    .line-5 { animation: fadeIn 0.3s steps(1) forwards; animation-delay: 5.8s; }
   </style>
 
   <!-- BACKGROUND: Lofi Boy coding image (base64 embedded) -->
@@ -108,38 +95,43 @@
     <!-- Terminal Content Area -->
     <g transform="translate(25, 45)">
       <!-- Line 1: system_audit.sh -->
-      <g class="line-1">
+      <g opacity="0">
         <text class="term-text" x="0" y="30">
           <tspan fill="#66d9ef">$</tspan> ./system_audit.sh --target <tspan class="monokai-string">"rithish_sp"</tspan>
         </text>
+        <animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="0.1s" fill="freeze" />
       </g>
       
       <!-- Line 2: Identity -->
-      <g class="line-2">
+      <g opacity="0">
         <text class="term-text" x="0" y="65">
           <tspan class="monokai-keyword">[+]</tspan> <tspan class="monokai-var">identity</tspan> = <tspan class="monokai-string">"Rithish S P"</tspan>;
         </text>
+        <animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.1s" fill="freeze" />
       </g>
 
       <!-- Line 3: Degree -->
-      <g class="line-3">
+      <g opacity="0">
         <text class="term-text" x="0" y="100">
           <tspan class="monokai-keyword">[+]</tspan> <tspan class="monokai-var">academics</tspan> = <tspan class="monokai-string">"B.E. Computer Science"</tspan>;
         </text>
+        <animate attributeName="opacity" from="0" to="1" begin="3.2s" dur="0.1s" fill="freeze" />
       </g>
 
       <!-- Line 4: Role -->
-      <g class="line-4">
+      <g opacity="0">
         <text class="term-text" x="0" y="135">
           <tspan class="monokai-keyword">[+]</tspan> <tspan class="monokai-var">focus</tspan> = <tspan class="monokai-string">"Web Security &amp; Recon"</tspan>;
         </text>
+        <animate attributeName="opacity" from="0" to="1" begin="4.5s" dur="0.1s" fill="freeze" />
       </g>
 
       <!-- Line 5: Status -->
-      <g class="line-5">
+      <g opacity="0">
         <text class="term-text" x="0" y="170">
           <tspan class="monokai-keyword">[+]</tspan> <tspan class="monokai-var">status</tspan> = <tspan class="monokai-string">"Active Threat Hunter ðŸ›¡ï¸"</tspan>;
         </text>
+        <animate attributeName="opacity" from="0" to="1" begin="5.8s" dur="0.1s" fill="freeze" />
       </g>
       
       <!-- Blinking Command Prompt Cursor -->
@@ -153,7 +145,7 @@
     <!-- Rotating Text Path Group -->
     <g>
       <text class="hud-text">
-        <textPath href="#textCircle" startOffset="0%">â€¢ HI FOLKS! â€¢ WELCOME TO MY PROFILE â€¢ HAVE A GREAT DAY </textPath>
+        <textPath xlink:href="#textCircle" startOffset="0%">â€¢ HI FOLKS! â€¢ WELCOME TO MY PROFILE â€¢ HAVE A GREAT DAY </textPath>
       </text>
       <!-- Infinite Rotation Animation (centered at X=840, Y=100) -->
       <animateTransform attributeName="transform" type="rotate" from="0 840 100" to="360 840 100" dur="16s" repeatCount="indefinite" />
