@@ -92,46 +92,41 @@
     <!-- Title Text -->
     <text x="230" y="23" font-family="'Fira Code', monospace" font-size="12" fill="#75715e" text-anchor="middle" font-weight="bold">rithish_sp@terminal: ~</text>
 
-    <!-- Terminal Content Area -->
+    <!-- Terminal Content Area (Static for 100% reliable rendering) -->
     <g transform="translate(25, 45)">
       <!-- Line 1: system_audit.sh -->
-      <g opacity="0">
+      <g>
         <text class="term-text" x="0" y="30">
           <tspan fill="#66d9ef">$</tspan> ./system_audit.sh --target <tspan class="monokai-string">"rithish_sp"</tspan>
         </text>
-        <animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="0.1s" fill="freeze" />
       </g>
       
       <!-- Line 2: Identity -->
-      <g opacity="0">
+      <g>
         <text class="term-text" x="0" y="65">
           <tspan class="monokai-keyword">[+]</tspan> <tspan class="monokai-var">identity</tspan> = <tspan class="monokai-string">"Rithish S P"</tspan>;
         </text>
-        <animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.1s" fill="freeze" />
       </g>
 
       <!-- Line 3: Degree -->
-      <g opacity="0">
+      <g>
         <text class="term-text" x="0" y="100">
           <tspan class="monokai-keyword">[+]</tspan> <tspan class="monokai-var">academics</tspan> = <tspan class="monokai-string">"B.E. Computer Science"</tspan>;
         </text>
-        <animate attributeName="opacity" from="0" to="1" begin="3.2s" dur="0.1s" fill="freeze" />
       </g>
 
       <!-- Line 4: Role -->
-      <g opacity="0">
+      <g>
         <text class="term-text" x="0" y="135">
           <tspan class="monokai-keyword">[+]</tspan> <tspan class="monokai-var">focus</tspan> = <tspan class="monokai-string">"Web Security &amp; Recon"</tspan>;
         </text>
-        <animate attributeName="opacity" from="0" to="1" begin="4.5s" dur="0.1s" fill="freeze" />
       </g>
 
       <!-- Line 5: Status -->
-      <g opacity="0">
+      <g>
         <text class="term-text" x="0" y="170">
           <tspan class="monokai-keyword">[+]</tspan> <tspan class="monokai-var">status</tspan> = <tspan class="monokai-string">"Active Threat Hunter ðŸ›¡ï¸"</tspan>;
         </text>
-        <animate attributeName="opacity" from="0" to="1" begin="5.8s" dur="0.1s" fill="freeze" />
       </g>
       
       <!-- Blinking Command Prompt Cursor -->
