@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- LIVE ANIME LOFI MOVING SVG BANNER -->
-  <img src="https://raw.githubusercontent.com/Ritzz-09/Ritzz-09/main/lofi_banner.svg" width="100%" alt="Rithish SP Live Anime Lofi Coding Banner"/>
+<img src="https://raw.githubusercontent.com/Ritzz-09/Ritzz-09/main/lofi_banner.svg?v=1" width="100%" alt="Rithish SP Live Anime Lofi Coding Banner"/>
 
   <br/><br/>
 
