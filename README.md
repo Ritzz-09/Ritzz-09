@@ -12,8 +12,10 @@
 
   <br/><br/>
 
-  <!-- HIGHLIGHT BADGES -->
-  <img src="https://img.shields.io/badge/HONOR-1st%20Place%20ISACA%20CTF%202026-ffd700?style=for-the-badge&logo=trophy&logoColor=0d1117&labelColor=0d1117&borderColor=ffd700"/>
+  <!-- HIGHLIGHT BADGES (CLICKING ISACA BADGE DIRECTS TO LINKEDIN POST) -->
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7507331341433249792/" target="_blank">
+    <img src="https://img.shields.io/badge/HONOR-1st%20Place%20ISACA%20CTF%202026-ffd700?style=for-the-badge&logo=trophy&logoColor=0d1117&labelColor=0d1117&borderColor=ffd700" alt="1st Place ISACA CTF 2026 LinkedIn Post"/>
+  </a>
   <img src="https://img.shields.io/badge/DEGREE-B.E.%20Computer%20Science-0d1117?style=for-the-badge&logo=academic-cap&logoColor=a6e22e&borderColor=a6e22e"/>
   <img src="https://img.shields.io/badge/LOCATION-India-0d1117?style=for-the-badge&logo=target&logoColor=f92672&borderColor=f92672"/>
 
@@ -79,18 +81,43 @@
 
 <table width="100%">
   <tr>
-    <td bgcolor="#000000" style="background-color: #000000; border: 1.5px solid #ffd700; border-radius: 8px; padding: 20px;">
-      <h3 style="margin-top: 0; color: #ffd700;">🥇 1st Place — ISACA CTF 2026</h3>
-      <p style="color: #f8f8f2; line-height: 1.6;">
-        Secured <b>1st Place</b> in the prestigious <b>ISACA Capture The Flag (CTF) 2026</b> competition. Demonstrated tactical problem-solving and rapid vulnerability discovery across multiple cybersecurity disciplines:
+    <td bgcolor="#000000" style="background-color: #000000; border: 1.5px solid #ffd700; border-radius: 8px; padding: 22px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px;">
+        <div>
+          <h3 style="margin: 0; color: #ffd700;">
+            🥇 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7507331341433249792/" target="_blank" style="color: #ffd700; text-decoration: none;">1st Place — ISACA CTF 2026 (Secure AI Summit) ↗</a>
+          </h3>
+          <p style="color: #8b949e; font-family: monospace; font-size: 13px; margin: 6px 0 0 0;">
+            <b>Organized by:</b> ISACA Trivandrum Chapter &bull; <b>Team:</b> FLAGGERS UNITED &bull; <b>Award:</b> Certificate of Excellence
+          </p>
+        </div>
+        <div>
+          <a href="https://www.linkedin.com/feed/update/urn:li:activity:7507331341433249792/" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-View_Post_%26_Certificate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="View on LinkedIn"/>
+          </a>
+        </div>
+      </div>
+      <hr style="border: 0; border-top: 1px solid #30363d; margin: 16px 0;"/>
+      <p style="color: #f8f8f2; line-height: 1.6; margin-top: 0;">
+        Secured <b>1st Place (Certificate of Excellence)</b> in the Capture The Flag competition at the <b>Secure AI Summit 2026</b> organized by the <b>ISACA Trivandrum Chapter</b>. Representing team <b>FLAGGERS UNITED</b> alongside teammates Subadevan C and Prasanna Venkatesh T, solving high-intensity challenges across core cybersecurity disciplines:
       </p>
       <ul style="color: #f8f8f2; line-height: 1.6;">
-        <li>🌐 <b>Web Exploitation</b>: Identifying and exploiting OWASP Top 10 vulnerabilities, auth bypass, and parameter injection.</li>
-        <li>🔎 <b>Digital Forensics &amp; OSINT</b>: Analyzing network PCAPs, memory dumps, metadata extraction, and footprinting.</li>
-        <li>🔐 <b>Cryptography</b>: Cracking multi-stage ciphers, hash decoding, and analyzing entropy vulnerabilities.</li>
-        <li>⚡ <b>Reverse Engineering</b>: Binary inspection, decompilation, and payload workflow dissection.</li>
+        <li>🌐 <b>Web Exploitation</b>: Identifying and exploiting complex OWASP vulnerabilities, authorization bypass, and input tampering.</li>
+        <li>🔎 <b>Digital Forensics &amp; OSINT</b>: Analyzing network PCAPs, packet reconstruction, memory dumps, and intelligence gathering.</li>
+        <li>🔐 <b>Cryptography</b>: Cracking multi-stage ciphers, hash salting reversal, and statistical entropy analysis.</li>
+        <li>⚡ <b>Reverse Engineering</b>: Binary inspection, decompilation workflows, and payload execution tracing.</li>
       </ul>
-      <p style="color: #a6e22e; font-family: monospace; margin-bottom: 0;"><b>Keywords:</b> ISACA · CTF 2026 Champion · Cyber Defense · Penetration Testing · Threat Recon</p>
+      <div style="margin-top: 16px;">
+        <a href="https://www.linkedin.com/feed/update/urn:li:activity:7507331341433249792/" target="_blank">
+          <img src="https://img.shields.io/badge/Verified_Credential-View_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+        </a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Award-Certificate_of_Excellence-ffd700?style=flat-square&logo=trophy&logoColor=000000"/>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Team-FLAGGERS_UNITED-00fff7?style=flat-square&logo=target&logoColor=000000"/>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Host-ISACA_Trivandrum-ff7b72?style=flat-square&logo=shield&logoColor=000000"/>
+      </div>
     </td>
   </tr>
 </table>
@@ -330,59 +357,3 @@ graph TD
         &nbsp;
         <img src="https://img.shields.io/badge/AI_Engine-Groq_LPU-f55036?style=flat-square&logo=groq&logoColor=white"/>
       </div>
-    </td>
-  </tr>
-
-  <tr><td height="14"></td></tr>
-
-  <!-- PROJECT 5: SECURITY RESEARCH ENGINES & THREAT LABS -->
-  <tr>
-    <td bgcolor="#000000" style="background-color: #000000; border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
-      <h3 style="margin: 0; color: #a6e22e;">
-        🔬 05. Custom Security Engines &amp; Threat Labs
-      </h3>
-      <p style="color: #f8f8f2; margin-top: 10px; line-height: 1.6;">
-        A suite of offensive and defensive security research modules built to explore protocols, input systems, and threat signatures:
-      </p>
-      <ul style="color: #f8f8f2; line-height: 1.7;">
-        <li>📡 <a href="https://github.com/Ritzz-09/Packet-sniffer" style="color: #a6e22e; text-decoration: none;"><b>Packet-sniffer</b></a>: Python packet analyzer capturing raw network frames, IP routing headers, and protocols.</li>
-        <li>🔎 <a href="https://github.com/Ritzz-09/Port-scanner" style="color: #58a6ff; text-decoration: none;"><b>Port-scanner</b></a>: Lightweight TCP port scanner with mini-Nmap argument flags for hands-on port discovery.</li>
-        <li>⌨️ <a href="https://github.com/Ritzz-09/Key-logger" style="color: #ffd700; text-decoration: none;"><b>Key-logger</b></a>: System input monitor categorizing keystrokes into structured sessions using inactivity detection.</li>
-        <li>🔓 <a href="https://github.com/Ritzz-09/Password-cracker" style="color: #ff7b72; text-decoration: none;"><b>Password-cracker</b></a>: Dictionary attack engine supporting MD5, SHA-1, and SHA-256 with salted hash verification.</li>
-        <li>📊 <a href="https://github.com/Ritzz-09/Password-security-analyzer" style="color: #d2a8ff; text-decoration: none;"><b>Password-security-analyzer</b></a>: Algorithmic entropy scoring and password vulnerability evaluation.</li>
-        <li>⚡ <a href="https://github.com/Ritzz-09/Reverse-shell" style="color: #58a6ff; text-decoration: none;"><b>Reverse-shell Lab</b></a>: Client-server socket communication testing remote command execution channels.</li>
-        <li>🦠 <a href="https://github.com/Ritzz-09/Malware-simulator" style="color: #f0883e; text-decoration: none;"><b>Malware-simulator</b></a>: Controlled testbed studying executable behaviors and detection signatures.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🌐 CONNECT WITH ME
-
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/rithish-s-p-0171ba377/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_On_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:sprithish1409@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send_An_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Ritzz-09">
-    <img src="https://img.shields.io/badge/GitHub-Follow_On_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <br/><br/>
-
-  <!-- TYPING FOOTER -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2400&pause=1000&color=A6E22E&center=true&vCenter=true&width=550&lines=Build+%7C+Analyze+%7C+Inspect+%7C+Defend;Securing+and+leveling+up+the+web%2C+one+commit+at+a+time+%E2%9A%A1" alt="Footer Typing Animation"/>
-
-  <br/><br/>
-
-  <!-- FOOTER WAVE -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:161b22,100:000000&height=120&section=footer" width="100%"/>
-
-</div>
