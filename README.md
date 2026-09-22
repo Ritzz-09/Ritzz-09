@@ -27,6 +27,7 @@
   <a href="#-cybersecurity-domain-architecture"><img src="https://img.shields.io/badge/%F0%9F%8C%B2-ARCHITECTURE-0d1117?style=for-the-badge&logoColor=66d9ef&borderColor=66d9ef"/></a>
   <a href="#-tech-stack--arsenal-hierarchy"><img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F-ARSENAL-0d1117?style=for-the-badge&logoColor=e6db74&borderColor=e6db74"/></a>
   <a href="#-featured-projects"><img src="https://img.shields.io/badge/%F0%9F%9A%80-PROJECTS-0d1117?style=for-the-badge&logoColor=f92672&borderColor=f92672"/></a>
+  <a href="#-contribution-stream"><img src="https://img.shields.io/badge/%F0%9F%90%8D-SNAKE-0d1117?style=for-the-badge&logoColor=27c93f&borderColor=27c93f"/></a>
 
   <br/><br/>
 
@@ -357,3 +358,73 @@ graph TD
         &nbsp;
         <img src="https://img.shields.io/badge/AI_Engine-Groq_LPU-f55036?style=flat-square&logo=groq&logoColor=white"/>
       </div>
+    </td>
+  </tr>
+
+  <tr><td height="14"></td></tr>
+
+  <!-- PROJECT 5: SECURITY RESEARCH ENGINES & THREAT LABS -->
+  <tr>
+    <td bgcolor="#000000" style="background-color: #000000; border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+      <h3 style="margin: 0; color: #a6e22e;">
+        🔬 05. Custom Security Engines &amp; Threat Labs
+      </h3>
+      <p style="color: #f8f8f2; margin-top: 10px; line-height: 1.6;">
+        A suite of offensive and defensive security research modules built to explore protocols, input systems, and threat signatures:
+      </p>
+      <ul style="color: #f8f8f2; line-height: 1.7;">
+        <li>📡 <a href="https://github.com/Ritzz-09/Packet-sniffer" style="color: #a6e22e; text-decoration: none;"><b>Packet-sniffer</b></a>: Python packet analyzer capturing raw network frames, IP routing headers, and protocols.</li>
+        <li>🔎 <a href="https://github.com/Ritzz-09/Port-scanner" style="color: #58a6ff; text-decoration: none;"><b>Port-scanner</b></a>: Lightweight TCP port scanner with mini-Nmap argument flags for hands-on port discovery.</li>
+        <li>⌨️ <a href="https://github.com/Ritzz-09/Key-logger" style="color: #ffd700; text-decoration: none;"><b>Key-logger</b></a>: System input monitor categorizing keystrokes into structured sessions using inactivity detection.</li>
+        <li>🔓 <a href="https://github.com/Ritzz-09/Password-cracker" style="color: #ff7b72; text-decoration: none;"><b>Password-cracker</b></a>: Dictionary attack engine supporting MD5, SHA-1, and SHA-256 with salted hash verification.</li>
+        <li>📊 <a href="https://github.com/Ritzz-09/Password-security-analyzer" style="color: #d2a8ff; text-decoration: none;"><b>Password-security-analyzer</b></a>: Algorithmic entropy scoring and password vulnerability evaluation.</li>
+        <li>⚡ <a href="https://github.com/Ritzz-09/Reverse-shell" style="color: #58a6ff; text-decoration: none;"><b>Reverse-shell Lab</b></a>: Client-server socket communication testing remote command execution channels.</li>
+        <li>🦠 <a href="https://github.com/Ritzz-09/Malware-simulator" style="color: #f0883e; text-decoration: none;"><b>Malware-simulator</b></a>: Controlled testbed studying executable behaviors and detection signatures.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🐍 CONTRIBUTION STREAM
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td bgcolor="#000000" style="background-color: #000000; border: 1px solid #30363d; border-radius: 8px; padding: 18px;" align="center">
+        <img src="https://raw.githubusercontent.com/Ritzz-09/Ritzz-09/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Rithish S P Contribution Grid Snake Animation" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🌐 CONNECT WITH ME
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/rithish-s-p-0171ba377/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_On_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sprithish1409@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send_An_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Ritzz-09">
+    <img src="https://img.shields.io/badge/GitHub-Follow_On_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- TYPING FOOTER -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2400&pause=1000&color=A6E22E&center=true&vCenter=true&width=550&lines=Build+%7C+Analyze+%7C+Inspect+%7C+Defend;Securing+and+leveling+up+the+web%2C+one+commit+at+a+time+%E2%9A%A1" alt="Footer Typing Animation"/>
+
+  <br/><br/>
+
+  <!-- FOOTER WAVE -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:161b22,100:000000&height=120&section=footer" width="100%"/>
+
+</div>
