@@ -1,38 +1,42 @@
 <div align="center">
 
-  <!-- LIVE ANIME LOFI MOVING SVG BANNER -->
-<img src="https://raw.githubusercontent.com/Ritzz-09/Ritzz-09/main/lofi_banner.svg?v=1" width="100%" alt="Rithish SP Live Anime Lofi Coding Banner"/>
+  <!-- HERO BANNER -->
+  <img src="https://raw.githubusercontent.com/Ritzz-09/Ritzz-09/main/lofi_banner.svg" width="100%" alt="Rithish S P Banner"/>
 
   <br/><br/>
 
-  <!-- DYNAMIC TYPING SVG ANIMATION MONOKAI THEME -->
+  <!-- DYNAMIC TYPING HEADER -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2400&pause=1000&color=A6E22E&center=true&vCenter=true&width=700&lines=%3E_const+user+%3D+%22Rithish+S+P%22%3B%3B%3E_const+role+%3D+%22Web+Security+Analyst%22%3B%3B%3E_const+specialty+%3D+%22Traffic+Monitoring+%26+Recon%22%3B%3B%3E_status%3A+%22Building+%26+Securing+The+Web%22" alt="Monokai Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=1000&color=A6E22E&center=true&vCenter=true&width=780&lines=%3E_const+user+%3D+%22Rithish+S+P%22%3B%3B%3E_role+%3D+%22Web+Security+Analyst+%7C+Threat+Hunter%22%3B%3B%3E_accolade+%3D+%221st+Place+Winner+%E2%80%94+ISACA+CTF+2026%22%3B%3B%3E_specialty+%3D+%22Web+Exploitation+%26+Traffic+Analysis%22%3B%3B%3E_status+%3D+%22Building+%26+Securing+The+Web%22" alt="Typing Header" />
   </a>
 
   <br/><br/>
 
-  <!-- BADGE HUB -->
-  <img src="https://img.shields.io/badge/ACADEMICS-B.E.%20Computer%20Science-1e1f1c?style=for-the-badge&logo=academic-cap&logoColor=a6e22e&borderColor=a6e22e"/>
-  <img src="https://img.shields.io/badge/LOCATION-India-1e1f1c?style=for-the-badge&logo=target&logoColor=f92672&borderColor=f92672"/>
+  <!-- HIGHLIGHT BADGES -->
+  <img src="https://img.shields.io/badge/HONOR-1st%20Place%20ISACA%20CTF%202026-ffd700?style=for-the-badge&logo=trophy&logoColor=0d1117&labelColor=0d1117&borderColor=ffd700"/>
+  <img src="https://img.shields.io/badge/DEGREE-B.E.%20Computer%20Science-0d1117?style=for-the-badge&logo=academic-cap&logoColor=a6e22e&borderColor=a6e22e"/>
+  <img src="https://img.shields.io/badge/LOCATION-India-0d1117?style=for-the-badge&logo=target&logoColor=f92672&borderColor=f92672"/>
 
   <br/><br/>
 
-  <!-- MONOKAI QUICK-JUMP NAVIGATION BAR -->
-  <a href="#-monokai-terminal-dossier"><img src="https://img.shields.io/badge/%F0%9F%93%84-DOSSIER-1e1f1c?style=for-the-badge&logoColor=a6e22e&borderColor=a6e22e"/></a>
-  <a href="#-cybersecurity-domain-architecture"><img src="https://img.shields.io/badge/%F0%9F%8C%B2-ARCHITECTURE-1e1f1c?style=for-the-badge&logoColor=66d9ef&borderColor=66d9ef"/></a>
-  <a href="#-tech-stack--arsenal-hierarchy"><img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F-ARSENAL-1e1f1c?style=for-the-badge&logoColor=e6db74&borderColor=e6db74"/></a>
-  <a href="#-featured-security-projects"><img src="https://img.shields.io/badge/%F0%9F%9A%80-PROJECTS-1e1f1c?style=for-the-badge&logoColor=f92672&borderColor=f92672"/></a>
-  <a href="#-profile-analytics--activity"><img src="https://img.shields.io/badge/%F0%9F%93%8A-ANALYTICS-1e1f1c?style=for-the-badge&logoColor=ae81ff&borderColor=ae81ff"/></a>
+  <!-- QUICK NAVIGATION ANCHORS -->
+  <a href="#-terminal-dossier"><img src="https://img.shields.io/badge/%F0%9F%93%84-DOSSIER-0d1117?style=for-the-badge&logoColor=a6e22e&borderColor=a6e22e"/></a>
+  <a href="#-honors--achievements"><img src="https://img.shields.io/badge/%F0%9F%8F%86-HONORS-0d1117?style=for-the-badge&logoColor=ffd700&borderColor=ffd700"/></a>
+  <a href="#-cybersecurity-domain-architecture"><img src="https://img.shields.io/badge/%F0%9F%8C%B2-ARCHITECTURE-0d1117?style=for-the-badge&logoColor=66d9ef&borderColor=66d9ef"/></a>
+  <a href="#-tech-stack--arsenal-hierarchy"><img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F-ARSENAL-0d1117?style=for-the-badge&logoColor=e6db74&borderColor=e6db74"/></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/%F0%9F%9A%80-PROJECTS-0d1117?style=for-the-badge&logoColor=f92672&borderColor=f92672"/></a>
 
   <br/><br/>
 
-  <!-- CONNECT BUTTONS -->
+  <!-- SOCIAL / CONNECT BUTTONS -->
   <a href="https://www.linkedin.com/in/rithish-s-p-0171ba377/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sprithish1409@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://life-xp-bice.vercel.app">
+    <img src="https://img.shields.io/badge/Live_App-Life--XP-10B981?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/Ritzz-09">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -44,18 +48,52 @@
 
 ---
 
-## 💻 MONOKAI TERMINAL DOSSIER
+## 💻 TERMINAL DOSSIER
 
 <div align="center">
-  <!-- DIRECT ZERO-UPLOAD DYNAMIC LIVE TYPING SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=A6E22E&multiline=true&width=800&height=180&lines=%24+./system_audit.sh+--target+rithish_sp%3B%5B%2B%5D+IDENTITY%3A+Rithish+S+P+(%40Ritzz-09)%3B%5B%2B%5D+DEGREE%3A+B.E.+Computer+Science+%26+Engineering%3B%5B%2B%5D+ROLE%3A+Web+Security+Analyst+%7C+Threat+Hunter%3B%5B%2B%5D+FOCUS%3A+Web+Exploitation%2C+Packet+Inspection%2C+Recon%3B%5B%2B%5D+STATUS%3A+%F0%9F%9F%A2+Active+Security+Researcher+%26+Tool+Architect" alt="Monokai Live Typing Terminal Dossier" width="100%"/>
-  </a>
+  <table width="100%">
+    <tr>
+      <td bgcolor="#000000" style="background-color: #000000; border: 1px solid #30363d; border-radius: 8px; padding: 16px 20px;">
+        <div align="left" style="margin-bottom: 12px;">
+          <span style="color: #ff5f56; font-size: 14px;">●</span>&nbsp;
+          <span style="color: #ffbd2e; font-size: 14px;">●</span>&nbsp;
+          <span style="color: #27c93f; font-size: 14px;">●</span>
+          &nbsp;&nbsp;
+          <span style="color: #8b949e; font-family: 'Fira Code', monospace; font-size: 12px;">user@rithish-sec: ~ (bash)</span>
+        </div>
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=A6E22E&background=000000&multiline=true&repeat=true&width=800&height=180&lines=%24+.%2Fidentity_dossier.sh+--inspect%3B%5B%2B%5D+OPERATOR%3A+Rithish+S+P+(%40Ritzz-09)%3B%5B%2B%5D+ACADEMICS%3A+B.E.+Computer+Science+%26+Engineering%3B%5B%2B%5D+ROLE%3A+Web+Security+Analyst+%7C+Threat+Hunter%3B%5B%2B%5D+ACCOLADE%3A+1st+Place+Winner+%E2%80%A2+ISACA+CTF+2026%3B%5B%2B%5D+FOCUS%3A+Web+Exploitation%2C+Packet+Inspection%2C+Threat+Recon" width="100%" alt="Terminal Dossier Typing Animation" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-> 💬 *"Computer Science & Engineering student focused on Web Security and Threat Analysis. Building Python-based security tools for network reconnaissance, packet inspection, and traffic analysis."*
+> 💬 *"Computer Science & Engineering student focused on Web Security, Threat Analysis, and Network Reconnaissance. Passionate about uncovering web vulnerabilities, packet inspection, building Python-based security toolkits, and offensive-defensive cyber operations."*
+
+---
+
+## 🏆 HONORS & ACHIEVEMENTS
+
+<table width="100%">
+  <tr>
+    <td bgcolor="#000000" style="background-color: #000000; border: 1.5px solid #ffd700; border-radius: 8px; padding: 20px;">
+      <h3 style="margin-top: 0; color: #ffd700;">🥇 1st Place — ISACA CTF 2026</h3>
+      <p style="color: #f8f8f2; line-height: 1.6;">
+        Secured <b>1st Place</b> in the prestigious <b>ISACA Capture The Flag (CTF) 2026</b> competition. Demonstrated tactical problem-solving and rapid vulnerability discovery across multiple cybersecurity disciplines:
+      </p>
+      <ul style="color: #f8f8f2; line-height: 1.6;">
+        <li>🌐 <b>Web Exploitation</b>: Identifying and exploiting OWASP Top 10 vulnerabilities, auth bypass, and parameter injection.</li>
+        <li>🔎 <b>Digital Forensics &amp; OSINT</b>: Analyzing network PCAPs, memory dumps, metadata extraction, and footprinting.</li>
+        <li>🔐 <b>Cryptography</b>: Cracking multi-stage ciphers, hash decoding, and analyzing entropy vulnerabilities.</li>
+        <li>⚡ <b>Reverse Engineering</b>: Binary inspection, decompilation, and payload workflow dissection.</li>
+      </ul>
+      <p style="color: #a6e22e; font-family: monospace; margin-bottom: 0;"><b>Keywords:</b> ISACA · CTF 2026 Champion · Cyber Defense · Penetration Testing · Threat Recon</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -63,30 +101,35 @@
 
 ```mermaid
 graph TD
-    Root["🛡️ RITHISH S P<br/>Web Security & Threat Analysis"]
+    Root["🛡️ RITHISH S P<br/>Web Security Analyst & Threat Hunter"]
     
     Root --> WebSec["🌐 Web Security & Exploitation"]
     Root --> Threat["🔎 Threat & Traffic Analysis"]
-    Root --> Recon["🛡️ Reconnaissance & OSINT"]
+    Root --> Recon["📡 Reconnaissance & OSINT"]
     Root --> Crypto["🔐 Cryptography & Forensics"]
+    Root --> AppDev["⚙️ Security Tooling & Architecture"]
 
-    WebSec --> W1["HTTP Analysis & OWASP Top 10"]
+    WebSec --> W1["OWASP Top 10, Auth Bypass & Injection"]
     WebSec --> W2["Tooling: Burp Suite, ffuf, CyberChef"]
 
-    Threat --> T1["Live Packet Capture & Log Review"]
+    Threat --> T1["Live Packet Capture & Protocol Decoding"]
     Threat --> T2["Tooling: Wireshark, Nmap, Python Sockets"]
 
-    Recon --> R1["Port Scanning & Banner Grabbing"]
-    Recon --> R2["Tooling: Slythexa, Exiftool, Binwalk"]
+    Recon --> R1["Automated Port Scanning & Fingerprinting"]
+    Recon --> R2["Tooling: Slythexa, Port-scanner, Recon Scripts"]
 
-    Crypto --> C1["MD5/SHA Salting & Entropy"]
-    Crypto --> C2["Tooling: Custom Python Security Engines"]
+    Crypto --> C1["Hash Salting, Entropy & Cipher Analysis"]
+    Crypto --> C2["Tooling: Password-cracker, Security Analyzer"]
 
-    style Root fill:#272822,stroke:#a6e22e,stroke-width:2px,color:#a6e22e
-    style WebSec fill:#1e1f1c,stroke:#66d9ef,stroke-width:1px,color:#66d9ef
-    style Threat fill:#1e1f1c,stroke:#66d9ef,stroke-width:1px,color:#66d9ef
-    style Recon fill:#1e1f1c,stroke:#66d9ef,stroke-width:1px,color:#66d9ef
-    style Crypto fill:#1e1f1c,stroke:#66d9ef,stroke-width:1px,color:#66d9ef
+    AppDev --> A1["FloatChat: AI 4D Ocean Intelligence Platform"]
+    AppDev --> A2["Life-XP & Codi Craft (Groq API Systems)"]
+
+    style Root fill:#161b22,stroke:#a6e22e,stroke-width:2px,color:#a6e22e
+    style WebSec fill:#000000,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
+    style Threat fill:#000000,stroke:#f0883e,stroke-width:1px,color:#f0883e
+    style Recon fill:#000000,stroke:#ff7b72,stroke-width:1px,color:#ff7b72
+    style Crypto fill:#000000,stroke:#d2a8ff,stroke-width:1px,color:#d2a8ff
+    style AppDev fill:#000000,stroke:#a6e22e,stroke-width:1px,color:#a6e22e
 ```
 
 ---
@@ -95,56 +138,84 @@ graph TD
 
 ```mermaid
 graph TD
-    HOME["🛠️ TECH STACK & ARSENAL"]
+    HOME["🛠️ TECH STACK & ARSENAL HIERARCHY"]
 
-    HOME --> SEC["🛡️ SECURITY & RECON"]
-    HOME --> LANG["💻 LANGUAGES & SCRIPTS"]
-    HOME --> DEV["⚙️ DEV ENVIRONMENT"]
+    HOME --> SEC["🛡️ CYBERSECURITY & RECON"]
+    HOME --> LANG["💻 CORE LANGUAGES"]
+    HOME --> WEB["🌐 WEB & DATA PLATFORMS"]
+    HOME --> DEV["⚙️ DEV & ENVIRONMENT"]
 
-    SEC --> S1["KALI LINUX"]
-    SEC --> S2["NMAP & WIRESHARK"]
-    SEC --> S3["OWASP TOP 10"]
-    SEC --> S4["FFUF & CYBERCHEF"]
+    SEC --> S1["Kali Linux & Penetration Testing"]
+    SEC --> S2["Wireshark & Nmap (Traffic Inspection)"]
+    SEC --> S3["OWASP Top 10 & Web Exploitation"]
+    SEC --> S4["ffuf, Burp Suite & CyberChef"]
 
-    LANG --> L1["PYTHON (RECON & EXPLOITS)"]
-    LANG --> L2["BASH & SHELL SCRIPTING"]
-    LANG --> L3["C / C++ (SOCKETS)"]
-    LANG --> L4["JS / HTML5 / CSS3"]
+    LANG --> L1["Python 3 (Recon Frameworks & Threat Engines)"]
+    LANG --> L2["TypeScript / JavaScript (Interactive Systems)"]
+    LANG --> L3["C / C++ (Low-Level Network Sockets)"]
+    LANG --> L4["Bash & Linux POSIX Shell Scripting"]
+    LANG --> L5["SQL & DuckDB (High-Speed Columnar Auditing)"]
 
-    DEV --> D1["FLASK BACKEND"]
-    DEV --> D2["GIT & GITHUB"]
-    DEV --> D3["VS CODE IDE"]
+    WEB --> W1["React 18 & Next.js UI Architectures"]
+    WEB --> W2["FastAPI & Flask Backend APIs"]
+    WEB --> W3["4D WebGL Scientific Globe & Tailwind CSS"]
+    WEB --> W4["Groq API AI Inference Engine"]
 
-    style HOME fill:#272822,stroke:#e6db74,stroke-width:2px,color:#e6db74
-    style SEC fill:#1e1f1c,stroke:#f92672,stroke-width:1px,color:#f92672
-    style LANG fill:#1e1f1c,stroke:#a6e22e,stroke-width:1px,color:#a6e22e
-    style DEV fill:#1e1f1c,stroke:#ae81ff,stroke-width:1px,color:#ae81ff
+    DEV --> D1["Git & GitHub Version Control"]
+    DEV --> D2["VS Code & Linux POSIX Terminals"]
+    DEV --> D3["Postman (API Testing & Auditing)"]
+    DEV --> D4["Vercel Cloud Deployment"]
+
+    style HOME fill:#161b22,stroke:#ffd700,stroke-width:2px,color:#ffd700
+    style SEC fill:#000000,stroke:#ff7b72,stroke-width:1px,color:#ff7b72
+    style LANG fill:#000000,stroke:#a6e22e,stroke-width:1px,color:#a6e22e
+    style WEB fill:#000000,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
+    style DEV fill:#000000,stroke:#d2a8ff,stroke-width:1px,color:#d2a8ff
 ```
 
 ### 💻 Carbon Shell Tree Output
 <div align="center">
   <table width="100%">
     <tr>
-      <td bgcolor="#1e1f1c" style="border: 1px solid #3e3d32; border-radius: 8px; padding: 18px;">
-        <pre style="background: transparent; color: #a6e22e; font-family: 'Fira Code', monospace; text-align: left; margin: 0; line-height: 1.6; font-size: 13px;">
-<span style="color: #fd971f;">user@rithish-security-node</span>:<span style="color: #66d9ef;">~/arsenal</span>$ tree ./tools_and_languages
+      <td bgcolor="#000000" style="background-color: #000000; border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+        <pre style="background: transparent; color: #a6e22e; font-family: 'Fira Code', Consolas, Monaco, monospace; text-align: left; margin: 0; line-height: 1.7; font-size: 13px;">
+<span style="color: #66d9ef;">user@rithish-security-node</span>:<span style="color: #e6db74;">~/arsenal</span>$ tree ./tech_stack --dirsfirst -C
 
-<span style="color: #f92672;">[+] LOADING MONOKAI ARSENAL TREE...</span>
+<span style="color: #ff7b72;">[+] LOADING ARSENAL TREE...</span>
 .
-├── 🛡️  SECURITY_TOOLS
-│   ├── [✓] Kali Linux .......... OS &amp; Penetration Testing Environment
-│   ├── [✓] Nmap ................ Network Scanner &amp; Service Discovery
-│   ├── [✓] Wireshark ........... Packet Inspection &amp; Protocol Analysis
-│   ├── [✓] OWASP Top 10 ........ Web Security Standard &amp; Audit Framework
-│   ├── [✓] ffuf ................ Directory Fuzzer &amp; Web Brute-forcer
-│   └── [✓] CyberChef ........... Web Swiss Army Knife for Encoding
+├── 🛡️  <b>SECURITY_AND_FORENSICS</b>
+│   ├── [✓] Kali Linux .......... Primary Penetration Testing &amp; Security OS
+│   ├── [✓] Wireshark ........... Deep Packet Inspection &amp; Protocol Analysis
+│   ├── [✓] Nmap ................ Host Discovery, Port Scanning &amp; Service Recon
+│   ├── [✓] Burp Suite .......... Web App Proxy, Request Interception &amp; Testing
+│   ├── [✓] OWASP Top 10 ........ Web Vulnerability Analysis (XSS, SQLi, SSRF)
+│   ├── [✓] ffuf ................ High-Speed Directory &amp; Parameter Fuzzing
+│   ├── [✓] CyberChef ........... Swiss Army Knife for Ciphers &amp; Hash Decoding
+│   └── [✓] Binwalk / Exiftool .. Firmware &amp; Digital Metadata Forensics
 │
-└── 💻  LANGUAGES_AND_FRAMEWORKS
-    ├── [✓] Python .............. Primary Recon &amp; Exploit Scripting
-    ├── [✓] Bash / Shell ........ System Automation &amp; Shell Scripting
-    ├── [✓] C / C++ ............. Low-Level Network Socket Programming
-    ├── [✓] Flask ............... Micro-backend for Python Security Engines
-    └── [✓] Git &amp; GitHub ........ Version Control &amp; Open Source Repositories
+├── 💻  <b>PROGRAMMING_LANGUAGES</b>
+│   ├── [✓] Python 3 ............ Primary Recon Frameworks &amp; Exploit Engines
+│   ├── [✓] TypeScript .......... Type-Safe Web Applications &amp; Interfaces
+│   ├── [✓] JavaScript (ES6+) ... Dynamic Interactive Client Logic
+│   ├── [✓] C / C++ ............. Low-Level Network Socket &amp; Systems Programming
+│   ├── [✓] Bash / POSIX ........ Shell Automation, Tool Chaining &amp; Linux Scripting
+│   └── [✓] SQL / DuckDB ........ Columnar Analytics &amp; Database Security Auditing
+│
+├── 🌐  <b>WEB_DATA_AND_AI_STACK</b>
+│   ├── [✓] React 18 &amp; Vite ..... High-Performance Component UI Architecture
+│   ├── [✓] Next.js ............. Production React Framework
+│   ├── [✓] FastAPI &amp; Flask ..... Micro-Backends for Python Security &amp; Analytics
+│   ├── [✓] DuckDB .............. Sub-10ms Columnar Analytical SQL Engine
+│   ├── [✓] 4D WebGL ............ Planetary Interactive Spatiotemporal Rendering
+│   ├── [✓] Groq API ............ Ultra-Fast LPU AI Code &amp; Logic Inference
+│   ├── [✓] Tailwind CSS ........ Utility-First Responsive Styling
+│   └── [✓] Vercel .............. Continuous Cloud Deployment &amp; Hosting
+│
+└── ⚙️  <b>DEV_AND_SYSTEM_TOOLS</b>
+    ├── [✓] Git &amp; GitHub ........ Version Control, Workflows &amp; Open Source
+    ├── [✓] Linux (Debian/Arch) . System Administration &amp; POSIX Environments
+    ├── [✓] VS Code ............. Primary Code Editor &amp; Debugging Environment
+    └── [✓] Postman ............. API Request Construction &amp; Security Auditing
         </pre>
       </td>
     </tr>
@@ -153,37 +224,134 @@ graph TD
 
 ---
 
-## 🚀 FEATURED SECURITY PROJECTS
+## 🚀 FEATURED PROJECTS
 
 <table width="100%">
+  <!-- PROJECT 1: FLOATCHAT -->
   <tr>
-    <td bgcolor="#1e1f1c" style="border: 1px solid #3e3d32; border-radius: 8px; padding: 18px;">
-      <h3 style="margin-top: 0; color: #a6e22e;">🛡️ 01. <a href="https://github.com/Ritzz-09/Slythexa" style="color: #a6e22e; text-decoration: none;">Slythexa — Modular Reconnaissance Framework</a></h3>
-      <p style="color: #f8f8f2;">High-performance modular recon framework built in Python. Features automated TCP port scanning, banner grabbing, DNS/WHOIS lookups, and HTTP header auditing with JSON reporting.</p>
-      <p style="color: #66d9ef; font-family: monospace;"><b>Tech:</b> Python · Socket · JSON · CLI · Network Security</p>
+    <td bgcolor="#000000" style="background-color: #000000; border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+      <div style="display: flex; justify-content: space-between; align-items: center;">
+        <h3 style="margin: 0; color: #58a6ff;">
+          🌊 01. <a href="https://github.com/Ritzz-09/Floatchat" style="color: #58a6ff; text-decoration: none;">FloatChat — AI-Powered 4D Spatiotemporal Ocean Intelligence Platform</a>
+        </h3>
+      </div>
+      <p style="color: #f8f8f2; margin-top: 10px; line-height: 1.6;">
+        An advanced oceanographic intelligence platform (<i>"Talk to the Ocean"</i>) allowing researchers and scientists to query global robotic ARGO float observations in plain English. Features an interactive 4D WebGL globe, sub-10ms DuckDB columnar analytics, Pydantic validation, and deterministic anomaly forecasting.
+      </p>
+      <p style="color: #a6e22e; font-family: monospace;">
+        <b>Tech Stack:</b> TypeScript · React 18 · Vite · 4D WebGL · FastAPI · DuckDB · Pydantic
+      </p>
+      <div>
+        <a href="https://github.com/Ritzz-09/Floatchat" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Architecture-FastAPI_%2B_DuckDB-008080?style=flat-square&logo=fastapi&logoColor=white"/>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Rendering-4D_WebGL_Globe-10B981?style=flat-square&logo=webgl&logoColor=white"/>
+      </div>
     </td>
   </tr>
-  <tr><td height="12"></td></tr>
+
+  <tr><td height="14"></td></tr>
+
+  <!-- PROJECT 2: SLYTHEXA -->
   <tr>
-    <td bgcolor="#1e1f1c" style="border: 1px solid #3e3d32; border-radius: 8px; padding: 18px;">
-      <h3 style="margin-top: 0; color: #66d9ef;">🤖 02. <a href="https://github.com/Ritzz-09/codeforge" style="color: #66d9ef; text-decoration: none;">Codi Craft / Codeforge — AI Coding Assistant</a></h3>
-      <p style="color: #f8f8f2;">Full-stack prototype powered by Flask and Groq API for prompt-driven code generation, bug refactoring, and vulnerability explanation.</p>
-      <p style="color: #e6db74; font-family: monospace;"><b>Tech:</b> JavaScript · Flask · Groq API · HTML5 · CSS3</p>
+    <td bgcolor="#000000" style="background-color: #000000; border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+      <div style="display: flex; justify-content: space-between; align-items: center;">
+        <h3 style="margin: 0; color: #a6e22e;">
+          🛡️ 02. <a href="https://github.com/Ritzz-09/Slythexa" style="color: #a6e22e; text-decoration: none;">Slythexa — Modular Network Reconnaissance Framework</a>
+        </h3>
+      </div>
+      <p style="color: #f8f8f2; margin-top: 10px; line-height: 1.6;">
+        A high-performance, modular Python reconnaissance framework for automated network intelligence gathering. Features concurrent TCP port scanning, service banner grabbing, WHOIS/DNS footprinting, HTTP security header auditing, and JSON exports.
+      </p>
+      <p style="color: #ffd700; font-family: monospace;">
+        <b>Tech Stack:</b> Python 3 · Sockets · Threading · CLI · Network Recon
+      </p>
+      <div>
+        <a href="https://github.com/Ritzz-09/Slythexa" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Report-JSON_Automation-21262d?style=flat-square&logo=json&logoColor=white"/>
+      </div>
     </td>
   </tr>
-  <tr><td height="12"></td></tr>
+
+  <tr><td height="14"></td></tr>
+
+  <!-- PROJECT 3: LIFE-XP -->
   <tr>
-    <td bgcolor="#1e1f1c" style="border: 1px solid #3e3d32; border-radius: 8px; padding: 18px;">
-      <h3 style="margin-top: 0; color: #f92672;">🔬 03. Custom Security Toolkits &amp; Labs</h3>
-      <p style="color: #f8f8f2;">A portfolio of 7 hands-on security labs analyzing attack vectors:</p>
-      <ul style="color: #f8f8f2; line-height: 1.6;">
-        <li>📡 <b>Live Packet Sniffer</b>: Inspects raw packet headers and IP traffic.</li>
-        <li>🔎 <b>TCP Port Scanner</b>: Scans open ports and detects active services.</li>
-        <li>⌨️ <b>Keystroke Monitor</b>: Educational keylogger examining input logging.</li>
-        <li>🔓 <b>Password Cracker</b>: Brute-force dictionary cracker for MD5, SHA-1, SHA-256.</li>
-        <li>📊 <b>Password Strength Evaluator</b>: Entropy-based security metric engine.</li>
-        <li>🔑 <b>Hashing &amp; Salting Engine</b>: Implemented salted cryptographic hash engine.</li>
-        <li>⚡ <b>Reverse Shell Lab</b>: Client-server command channel analysis.</li>
+    <td bgcolor="#000000" style="background-color: #000000; border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+      <div style="display: flex; justify-content: space-between; align-items: center;">
+        <h3 style="margin: 0; color: #ff7b72;">
+          🌟 03. <a href="https://github.com/Ritzz-09/Life-XP" style="color: #ff7b72; text-decoration: none;">Life-XP — Gamified Life Management Platform</a>
+        </h3>
+      </div>
+      <p style="color: #f8f8f2; margin-top: 10px; line-height: 1.6;">
+        An interactive productivity web platform that transforms everyday habits, tasks, and personal growth into an engaging RPG-style leveling system. Features live progress tracking, streak rewards, and responsive dashboards.
+      </p>
+      <p style="color: #d2a8ff; font-family: monospace;">
+        <b>Tech Stack:</b> TypeScript · React · Next.js · Modern UI · Vercel
+      </p>
+      <div>
+        <a href="https://life-xp-bice.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-Visit_App-00C7B7?style=flat-square&logo=vercel&logoColor=white"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/Ritzz-09/Life-XP" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+
+  <tr><td height="14"></td></tr>
+
+  <!-- PROJECT 4: CODI CRAFT / CODEFORGE -->
+  <tr>
+    <td bgcolor="#000000" style="background-color: #000000; border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+      <div style="display: flex; justify-content: space-between; align-items: center;">
+        <h3 style="margin: 0; color: #ffd700;">
+          🤖 04. <a href="https://github.com/Ritzz-09/codeforge" style="color: #ffd700; text-decoration: none;">Codi Craft (Codeforge) — AI Coding Assistant</a>
+        </h3>
+      </div>
+      <p style="color: #f8f8f2; margin-top: 10px; line-height: 1.6;">
+        An intelligent AI-assisted code generator and debugging prototype powered by the Groq API. Enables natural-language prompt synthesis, automated vulnerability inspection, bug fixes, and step-by-step code architecture explanations.
+      </p>
+      <p style="color: #58a6ff; font-family: monospace;">
+        <b>Tech Stack:</b> JavaScript · Flask · Python · Groq API · HTML5 · CSS3
+      </p>
+      <div>
+        <a href="https://github.com/Ritzz-09/codeforge" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/AI_Engine-Groq_LPU-f55036?style=flat-square&logo=groq&logoColor=white"/>
+      </div>
+    </td>
+  </tr>
+
+  <tr><td height="14"></td></tr>
+
+  <!-- PROJECT 5: SECURITY RESEARCH ENGINES & THREAT LABS -->
+  <tr>
+    <td bgcolor="#000000" style="background-color: #000000; border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+      <h3 style="margin: 0; color: #a6e22e;">
+        🔬 05. Custom Security Engines &amp; Threat Labs
+      </h3>
+      <p style="color: #f8f8f2; margin-top: 10px; line-height: 1.6;">
+        A suite of offensive and defensive security research modules built to explore protocols, input systems, and threat signatures:
+      </p>
+      <ul style="color: #f8f8f2; line-height: 1.7;">
+        <li>📡 <a href="https://github.com/Ritzz-09/Packet-sniffer" style="color: #a6e22e; text-decoration: none;"><b>Packet-sniffer</b></a>: Python packet analyzer capturing raw network frames, IP routing headers, and protocols.</li>
+        <li>🔎 <a href="https://github.com/Ritzz-09/Port-scanner" style="color: #58a6ff; text-decoration: none;"><b>Port-scanner</b></a>: Lightweight TCP port scanner with mini-Nmap argument flags for hands-on port discovery.</li>
+        <li>⌨️ <a href="https://github.com/Ritzz-09/Key-logger" style="color: #ffd700; text-decoration: none;"><b>Key-logger</b></a>: System input monitor categorizing keystrokes into structured sessions using inactivity detection.</li>
+        <li>🔓 <a href="https://github.com/Ritzz-09/Password-cracker" style="color: #ff7b72; text-decoration: none;"><b>Password-cracker</b></a>: Dictionary attack engine supporting MD5, SHA-1, and SHA-256 with salted hash verification.</li>
+        <li>📊 <a href="https://github.com/Ritzz-09/Password-security-analyzer" style="color: #d2a8ff; text-decoration: none;"><b>Password-security-analyzer</b></a>: Algorithmic entropy scoring and password vulnerability evaluation.</li>
+        <li>⚡ <a href="https://github.com/Ritzz-09/Reverse-shell" style="color: #58a6ff; text-decoration: none;"><b>Reverse-shell Lab</b></a>: Client-server socket communication testing remote command execution channels.</li>
+        <li>🦠 <a href="https://github.com/Ritzz-09/Malware-simulator" style="color: #f0883e; text-decoration: none;"><b>Malware-simulator</b></a>: Controlled testbed studying executable behaviors and detection signatures.</li>
       </ul>
     </td>
   </tr>
@@ -191,67 +359,30 @@ graph TD
 
 ---
 
-## 📌 ROADMAP & TARGET GOALS
-
-```yaml
-focus:
-  - Web Vulnerability Assessment & OWASP Top 10
-  - Digital Forensics & Log Analysis (Exiftool, Binwalk)
-  - Network Traffic Analysis & Packet Inspection (Wireshark, ffuf)
-building:
-  - Python Security Toolkits & Traffic Monitoring Labs
-goal:
-  - Aspiring Web Security Analyst Specializing in Threat Detection
-```
-
----
-
-## 📊 PROFILE ANALYTICS & ACTIVITY
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td bgcolor="#1e1f1c" style="border: 1px solid #3e3d32; border-radius: 8px; padding: 20px; text-align: center;">
-        <h4 style="color: #66d9ef; font-family: monospace; margin-top: 0;">⚡ MONOKAI SYSTEM METRICS HUD</h4>
-        <br/>
-        <img src="https://img.shields.io/badge/CONTRIBUTIONS-42%20in%202026-1e1f1c?style=for-the-badge&logo=github&logoColor=a6e22e&borderColor=a6e22e"/>
-        &nbsp;&nbsp;
-        <img src="https://img.shields.io/badge/PRIMARY%20LANG-Python%20%7C%20C%2B%2B%20%7C%20Bash-1e1f1c?style=for-the-badge&logo=python&logoColor=66d9ef&borderColor=66d9ef"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/SECURITY%20REPOS-Public%20Toolkits-1e1f1c?style=for-the-badge&logo=shield&logoColor=e6db74&borderColor=e6db74"/>
-        &nbsp;&nbsp;
-        <img src="https://img.shields.io/badge/STATUS-Active%20Threat%20Hunter-1e1f1c?style=for-the-badge&logo=kali-linux&logoColor=f92672&borderColor=f92672"/>
-      </td>
-    </tr>
-  </table>
-
-  <br/><br/>
-
-  <!-- GITHUB CONTRIBUTION SNAKE ANIMATION -->
-  <img src="https://raw.githubusercontent.com/Ritzz-09/Ritzz-09/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation"/>
-</div>
-
----
-
 ## 🌐 CONNECT WITH ME
 
 <div align="center">
+
   <a href="https://www.linkedin.com/in/rithish-s-p-0171ba377/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_On_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:sprithish1409@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send_An_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Send_An_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://github.com/Ritzz-09">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow_On_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</div>
 
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=A6E22E&center=true&vCenter=true&width=550&lines=Analyze+%7C+Inspect+%7C+Secure+%7C+Defend;One+Vulnerability+At+A+Time+%F0%9F%9B%A1%EF%B8%8F" alt="Footer Monokai Animation"/>
   <br/><br/>
-  <!-- FULL-WIDTH WAVING MONOKAI FOOTER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1f1c,25:272822,60:3e3d32,85:272822,100:1e1f1c&height=120&section=footer" width="100%"/>
+
+  <!-- TYPING FOOTER -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2400&pause=1000&color=A6E22E&center=true&vCenter=true&width=550&lines=Build+%7C+Analyze+%7C+Inspect+%7C+Defend;Securing+and+leveling+up+the+web%2C+one+commit+at+a+time+%E2%9A%A1" alt="Footer Typing Animation"/>
+
+  <br/><br/>
+
+  <!-- FOOTER WAVE -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:161b22,100:000000&height=120&section=footer" width="100%"/>
+
 </div>
