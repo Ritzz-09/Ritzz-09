@@ -178,11 +178,11 @@ graph TD
     SEC --> S3["OWASP Top 10 & Web Exploitation"]
     SEC --> S4["ffuf, Burp Suite & CyberChef"]
 
-    LANG --> L1["Python 3 (Recon Frameworks & Threat Engines)"]
-    LANG --> L2["TypeScript / JavaScript (Interactive Systems)"]
+    LANG --> L1["Python"]
+    LANG --> L2["TypeScript / JavaScript"]
     LANG --> L3["C / C++ (Low-Level Network Sockets)"]
     LANG --> L4["Bash & Linux POSIX Shell Scripting"]
-    LANG --> L5["SQL & DuckDB (High-Speed Columnar Auditing)"]
+    LANG --> L5["SQL & DuckDB "]
 
     WEB --> W1["React 18 & Next.js UI Architectures"]
     WEB --> W2["FastAPI & Flask Backend APIs"]
