@@ -180,7 +180,7 @@ graph TD
 
     LANG --> L1["Python"]
     LANG --> L2["TypeScript / JavaScript"]
-    LANG --> L3["C / C++ (Low-Level Network Sockets)"]
+    LANG --> L3["C / C++"]
     LANG --> L4["Bash & Linux POSIX Shell Scripting"]
     LANG --> L5["SQL & DuckDB "]
 
